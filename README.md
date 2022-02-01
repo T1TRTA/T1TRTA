@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @T1TRTA
+- 👀 I’m interested in Tech, Gaming, Cars and Fitness
+- 🌱 I’m currently learning Cybersecurity, Python and JavaScript
